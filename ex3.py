@@ -1,0 +1,35 @@
+# Exercise 3: Numbers and Math
+
+print("I will now count my chickens:")
+
+#Counting number of hens
+print("Hens", 25.0 + 30.0 / 6)
+
+#Counting number of roosters
+print("Roosters", 100.0 - 25.0 * 3.0 % 4)
+
+
+print("Now I will count the eggs:")
+
+#total eggs
+print(3.0 + 2.0 + 1.0 - 5.0 + 4.0 % 2.0 - 1.0 / 4.0 + 6.0)
+
+#check condition 3+2 < 5-7 answer false
+print("Is it true that 3.0 + 2.0 < 5.0 - 7.0?")
+
+print(3.0 + 2.0 < 5.0 - 7.0)
+
+#addition
+print("What is 3 + 2?", 3.0 + 2.0)
+
+#subtraction
+print("What is 5 - 7?", 5.0 - 7.0)
+
+print("Oh, that's why it's False.")
+
+print("How about some more.")
+
+# condition check
+print("Is it greater?", 5.0 > -2.0)
+print("Is it greater or equal?", 5.0 >= -2.0)
+print("Is it less or equal?", 5.0 <= -2.0)
